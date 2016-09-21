@@ -28,7 +28,7 @@ class TCurve(object):
             raise ValueError(functionName + "invalid tails")
         
         constant = self. calculateConstant(self.n)
-        integration = self.integrate(t, self.n, self.f)
+        integration = self.integrate(self.f,self.n, 0, t)
         if(tails == 1):
             result = constant * integration + 0.5
         else:

@@ -283,6 +283,10 @@ class TCurveTest(unittest.TestCase):
 #         self.assertAlmostEqual(myT.integrate(myT.f,5,0,1), 1.0/101.0, 3) 
 
 #Complete Function Testing
-    def test700_010_ShouldIntegrateXPow2From0To1(self):
+    def test700_010_TwoTailProbablityToALargeValueOfTShouldBeOne(self):
         myT = T.TCurve(self.nominalN)
-        self.assertAlmostEqual(myT.integrate(myT.f,5,0,1), 1.0/101.0, 3) 
+        self.assertAlmostEqual(myT.p(10000.0,2),1, 3) 
+        
+    def TwoTailProbablityToALargeValueOfTShouldBeAHalf(self):
+        myT = T.TCurve(self.nominalN)
+        self.assertAlmostEqual(myT.p(10000.0,1),0.5, 3) 
