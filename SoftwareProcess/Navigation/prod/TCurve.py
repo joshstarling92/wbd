@@ -36,7 +36,7 @@ class TCurve(object):
             
         if(result > 1.0):
             raise ValueError(functionName + "result > 1.0")
-        
+         
         return result
         
 # internal methods
@@ -61,8 +61,31 @@ class TCurve(object):
         result = base ** exponent
         return result
     
-    def integrate(self, t, n, f):
-        pass
+    def integrate(self, f, n, lowBound, highBound):
+        #define constants
+        epsilon = 0.001
+        simpsonOld = 0
+        simpsonNew = epsilon
+        s = 4
+            
+        #While loop to iterate until integration is accurate enough
+        while(abs((simpsonNew-simpsonOld)/simpsonNew) > epsilon):
+            simpsonOld = simpsonNew
+            simpsonNew = 0
+            divider = float(s)
+            w = (highBound-lowBound)/divider
+            for i in range(0,s+1):
+                if i == 0 or i == s:
+                    coeff = 1
+                elif (i)%2 == 0:
+                    coeff = 2
+                else:
+                    coeff = 4
+                returnOfF = f(lowBound+i*w,n)  
+                simpsonNew = simpsonNew + coeff*returnOfF
+            simpsonNew = (w/3.0) * simpsonNew
+            s = s*2
+        return simpsonNew
         
         
     
