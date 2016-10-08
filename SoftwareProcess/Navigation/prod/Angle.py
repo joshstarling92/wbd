@@ -7,10 +7,10 @@ class Angle():
         self.angle = 0
         self.classErrorName = 'Angle.'
     
-    def setDegrees(self, degrees):
+    def setDegrees(self, degrees = None):
         #Function sets the value angle by taking a numerical input value
         methodErrorName = 'setDegrees:  ' #defined for error handling
-        if degrees == '': #optional requirement to set angle at zero if null input is given
+        if degrees == None: #optional requirement to set angle at zero if null input is given
             self.angle = 0
             return self.angle
         try:
@@ -22,7 +22,7 @@ class Angle():
             errorMesg = self.classErrorName + methodErrorName + "'degrees' violates the parameter specifications. Enter degrees as int or float."+e
             raise ValueError(errorMesg)
         
-    def setDegreesAndMinutes(self, angleString):
+    def setDegreesAndMinutes(self, angleString = None):
         #Function sets the variable angle with a string of degrees in minutes in format 'xdy.y'
         #Lot of error handling in this function to make sure the input string is in the correct format
         #Initialize Variables
@@ -33,10 +33,10 @@ class Angle():
         minuteString = ''
         
         #Catches incorrect null input
-        if angleString == "":
+        if angleString == None:
             errmsg = self.classErrorName + methodErrorName + 'Null input is not allowed.'
             raise ValueError(errmsg)
-        
+
         #For loop to read input string
         #places input string into three different variables to be error checked later
         for i in angleString:
@@ -67,7 +67,7 @@ class Angle():
         except:
             errmsg = self.classErrorName + methodErrorName + "degrees must be a numerical value (int)"
             raise ValueError(errmsg)
-        if degrees != float(degreeString): #if input degrees is not a decimal this shoud catch it 
+        if degrees != float(degreeString): #if input degrees is a decimal this should catch it 
             errmsg = self.classErrorName + methodErrorName + "degrees must be type int"
             raise ValueError(errmsg)
     
@@ -97,9 +97,13 @@ class Angle():
         self.angle =  outputFloat
         return self.angle
 
-    def add(self, angle):
+    def add(self, angle = None):
         #Function will take self.angle and add to it the value of the angle class provided
         methodErrorName = 'add: '#used for error handling
+        
+        if angle is None:
+            errorMesg = self.classErrorName + methodErrorName + "Null input is not allowed" 
+            raise ValueError(errorMesg)
         try:        
             angleValue = angle.getDegrees()
         except:
@@ -109,9 +113,13 @@ class Angle():
         self.angle = self.moduloDegree(self.angle)
         return self.angle
     
-    def subtract(self, angle):
+    def subtract(self, angle = None):
         #Function will take self.angle and subtract from it the value of the angle class provided
         methodErrorName = 'subtract:  '#used for error handling
+        
+        if angle is None:
+            errorMesg = self.classErrorName + methodErrorName + "Null input is not allowed"
+            raise ValueError(errorMesg)
         try:        
             angleValue = angle.getDegrees()
         except:
@@ -121,13 +129,16 @@ class Angle():
         self.angle = self.moduloDegree(self.angle)
         return self.angle
     
-    def compare(self, angle):
+    def compare(self, angle = None):
         #Function compares self.angle against the value of the angle class provided
         #Returns:
         #-1 if the instance is less than the value passed as a parameter            
         #0 if the instance is equal to the value passed as a parameter            
         #1 if the instance is greater than the value passed as a parameter            
         methodErrorName = 'compare:  '#used for error handling
+        if angle is None:
+            errorMesg = self.classErrorName + methodErrorName + "Null input is not allowed" 
+            raise ValueError(errorMesg)
         try:        
             compareAngle = angle.getDegrees()
         except:
@@ -150,7 +161,7 @@ class Angle():
     
     def getDegrees(self):
         #Function will return the self.angle of class and return it as a float with on decimal place
-        return round(self.angle,1)
+        return round(self.angle,3)
     
     def moduloDegree(self,degrees):
         #Internal function that is used to modulo the degree value to be within 0 and 360 
@@ -162,9 +173,9 @@ class Angle():
                     degrees = degrees + 360
                 else: 
                     degreePositive = 1;
-        elif degrees > 360:
+        elif degrees >= 360:
             while (varOverMax == 0):
-                if degrees > 360:
+                if degrees >= 360:
                     degrees = degrees - 360
                 else: 
                     varOverMax = 1;

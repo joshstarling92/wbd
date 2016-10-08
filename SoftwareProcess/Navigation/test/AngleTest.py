@@ -87,3 +87,38 @@ try:
 except ValueError as raisedException:
     diagnosticString = raisedException.args[0]
     print diagnosticString
+    
+#Test that add function will modulo 360 and handle emptpy string
+
+angle5 = Angle.Angle()
+angle6 = Angle.Angle()
+
+angle5Degrees = angle5.setDegreesAndMinutes("354d30.0")
+angle6Degrees = angle6.setDegreesAndMinutes("5d30.0")   
+print angle5Degrees
+addedDegrees1 = angle5.add(angle6)
+print addedDegrees1
+try:
+    angle6DegreesEmpty = angle6.add()   
+except ValueError as raisedException:
+    diagnosticString = raisedException.args[0]
+    print diagnosticString
+
+#Test empty input for set degrees
+angle7 = Angle.Angle()
+angle7Degrees = angle7.setDegrees()
+print angle7Degrees
+
+angle8 = Angle.Angle()
+angle8Degrees = angle8.setDegrees(10)
+try:
+    angle98DegreesEmpty = angle6.subtract()   
+except ValueError as raisedException:
+    diagnosticString = raisedException.args[0]
+    print diagnosticString
+    
+try:
+    angle98DegreesEmpty = angle6.compare()   
+except ValueError as raisedException:
+    diagnosticString = raisedException.args[0]
+    print diagnosticString
