@@ -33,10 +33,8 @@ class FixTest(unittest.TestCase):
         with self.assertRaises(ValueError) as context:
             Fix.Fix('dsdd.tx')                           
         self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])
-# # Sad path  
-#     def test100_910_ShouldRaiseExceptionNoTxtFilePass(self):
-#         expectedString = "TCurve.__init__:"
-#         with self.assertRaises(ValueError) as context:
-#             T.TCurve("abc")                           
-#         self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])  
+        
+    def test100_040_ShouldEditLogFile(self):
+        Fix.Fix()
+        self.assertEqual(1, os.path.isfile('log.txt'))
 
