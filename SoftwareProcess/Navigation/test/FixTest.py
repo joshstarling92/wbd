@@ -38,3 +38,28 @@ class FixTest(unittest.TestCase):
         Fix.Fix()
         self.assertEqual(1, os.path.isfile('log.txt'))
 
+    def test100_050_ShouldReturn1(self):
+        fixTest1 = Fix.Fix()
+        self.assertEqual(fixTest1.setSightingFile('sightingFile.xml') , True)
+        
+    def test100_060_ShouldReturn0ForNewFile(self):
+        fixTest1 = Fix.Fix()
+        self.assertEqual(fixTest1.setSightingFile('sightingFileNew.xml') , False)
+#         
+    def test100_070_ShouldWriteInLogFile(self):
+        fixTest1 = Fix.Fix()
+        self.assertEqual(fixTest1.setSightingFile('sightingFile.xml') , True) 
+
+    def test100_0970_ShouldRaiseExceptionForNoFileGiven(self):
+        expectedString = "Fix.setSightingFile:  No .xml file given"
+        with self.assertRaises(ValueError) as context:
+            fixTest1 = Fix.Fix()
+            fixTest1.setSightingFile()
+        self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])
+         
+    def test100_0980_ShouldRaiseExceptionForNoFileGiven(self):
+        expectedString = "Fix.setSightingFile:  Improper file extension used"
+        with self.assertRaises(ValueError) as context:
+            fixTest1 = Fix.Fix()
+            fixTest1.setSightingFile('sightingFile.xm')
+        self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])
