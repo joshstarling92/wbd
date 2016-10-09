@@ -63,3 +63,17 @@ class FixTest(unittest.TestCase):
             fixTest1 = Fix.Fix()
             fixTest1.setSightingFile('sightingFile.xm')
         self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])
+        
+    def test200_010_ShouldReturnDefaultLatAndLong(self):
+        fixTest1 = Fix.Fix()
+        fixTest1.setSightingFile('sightingFile.xml')
+        (approxLat, approxLong) = fixTest1.getSightings()
+        self.assertEqual(approxLat, '0d0.0')
+        self.assertEqual(approxLong, '0d0.0')
+        
+#     def test200_920_NoXMLfileShouldRaiseError(self):
+#         expectedString = "Fix.getSightings:  No .xml file found"
+#         with self.assertRaises(ValueError) as context:
+#             fixTest1 = Fix.Fix()
+#             fixTest1.getSightings()
+#         self.assertEquals(expectedString, context.exception.args[0][0:len(expectedString)])
