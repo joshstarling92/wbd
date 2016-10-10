@@ -16,10 +16,13 @@ class Angle():
         try:
             #if input is not a numerical value, casting to float will error and message is passed back up
             floatDegrees = float(degrees)
-            self.angle = self.moduloDegree(floatDegrees)
+            wholeNumDegree = int(floatDegrees)
+            minute = round((floatDegrees-wholeNumDegree)*60.0,1)
+            
+            self.angle = self.moduloDegree(wholeNumDegree+minute/60.0)
             return self.angle
-        except ValueError as e:
-            errorMesg = self.classErrorName + methodErrorName + "'degrees' violates the parameter specifications. Enter degrees as int or float."+e
+        except:
+            errorMesg = self.classErrorName + methodErrorName + "'degrees' violates the parameter specifications. Enter degrees as int or float."
             raise ValueError(errorMesg)
         
     def setDegreesAndMinutes(self, angleString = None):
@@ -161,7 +164,7 @@ class Angle():
     
     def getDegrees(self):
         #Function will return the self.angle of class and return it as a float with on decimal place
-        return round(self.angle,3)
+        return round(self.angle,7)
     
     def moduloDegree(self,degrees):
         #Internal function that is used to modulo the degree value to be within 0 and 360 
