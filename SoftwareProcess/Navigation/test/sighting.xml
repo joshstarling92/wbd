@@ -8,7 +8,10 @@
 <temperature>72</temperature>			
 <pressure>1010</pressure>			
 <horizon>Artificial</horizon>			
-</sighting>			
+</sighting>	
+
+
+		
 <sighting>			
 <body>Starling1</body>			
 <date>2016-03-01</date>			
@@ -18,7 +21,8 @@
 <temperature>71</temperature>			
 <pressure>1010</pressure>			
 <horizon>Natural</horizon>			
-</sighting>		
+</sighting>	
+	
 <sighting>			
 <body>Starling</body>			
 <date>2015-03-02</date>			

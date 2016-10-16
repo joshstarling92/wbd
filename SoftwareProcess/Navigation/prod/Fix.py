@@ -61,18 +61,18 @@ class Fix():
         #function that calculates corrected observation angle 
         observation = Angle.Angle()
         observation.setDegreesAndMinutes(obs) #using the functionality of Angle class, use the given string and convert to a number
-        observationAngle = observation.getDegrees()
-        if observationAngle < 1.0/60:
-            errmsg = 'Observed altitude less than 0.1 arc-minute'
-            raise ValueError(errmsg)
+        observationAngle = observation.getRadians()
+#         if observationAngle < 1.0/60/180*3.14:
+#             errmsg = 'Observed altitude less than 0.1 arc-minute'
+#             raise ValueError(errmsg)
         
         #calculate correction
         if horz == 'natural':
             dip = (-0.97 * math.sqrt(height))/60
         else:
             dip = 0
-        refraction = (-0.00452*pressure)/(273+(temp-32)*5.0/9.0)/math.tan(observationAngle)
-        adjustedAlt = round(observationAngle + dip + refraction,1)
+        refraction = ((-0.00452*pressure)/(273+(temp-32)*5.0/9.0))/math.tan(observationAngle)
+        adjustedAlt = round((observationAngle + dip + refraction)*180/3.14,1)
         return adjustedAlt
     
     ######################################
@@ -134,7 +134,9 @@ class Fix():
             timeInSecOfSighting.append(sec + minute*60 + hour*60**2 + day*24*60**2 + (year+(month/12.0))*365*24*60**2)
         #takes sightings dom list and timeInSecOfSighting list and places each element into tuples respectivly, using zip
         #the list of touples are then sorted by timeInSecOfSighting and uncoupled back to their respective lists
-        sortedTimeList, sortedSightings = (list(t) for t in zip(*sorted(zip(timeInSecOfSighting, sightingsList))))
+        TupleListOfTimeAndSightings = zip(timeInSecOfSighting, sightingsList) #combines into on list
+        sortedTupleList = sorted(TupleListOfTimeAndSightings) #sorts list
+        sortedTimeList, sortedSightings = (list(t) for t in zip(*sortedTupleList)) #unsorts list and saves as individual list again
         return sortedSightings
             
             

@@ -25,6 +25,7 @@ class Angle():
             errorMesg = self.classErrorName + methodErrorName + "'degrees' violates the parameter specifications. Enter degrees as int or float."
             raise ValueError(errorMesg)
         
+        
     def setDegreesAndMinutes(self, angleString = None):
         #Function sets the variable angle with a string of degrees in minutes in format 'xdy.y'
         #Lot of error handling in this function to make sure the input string is in the correct format
@@ -165,6 +166,10 @@ class Angle():
     def getDegrees(self):
         #Function will return the self.angle of class and return it as a float with on decimal place
         return round(self.angle,7)
+    
+    def getRadians(self):
+        #Function will return the self.angle of class and return it as a float with on decimal place
+        return round(self.angle,7)*3.14/180
     
     def moduloDegree(self,degrees):
         #Internal function that is used to modulo the degree value to be within 0 and 360 
