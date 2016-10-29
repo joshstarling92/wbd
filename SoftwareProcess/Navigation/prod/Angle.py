@@ -169,7 +169,7 @@ class Angle():
     
     def getRadians(self):
         #Function will return the self.angle of class and return it as a float with on decimal place
-        return round(self.angle,7)*3.14/180
+        return round(self.angle,7)*3.141592654/180
     
     def moduloDegree(self,degrees):
         #Internal function that is used to modulo the degree value to be within 0 and 360 
