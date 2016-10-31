@@ -22,3 +22,19 @@ class Sightings():
         adjustedAltDeg = math.floor(adjustedAlt)
         adjustedAltMin = round((adjustedAlt-adjustedAltDeg)*60,1)
         return adjustedAltDeg+adjustedAltMin/60
+    
+    def calculateGeodedicLon(self,sightingDic,starLongList,ariesLongList,iterStar,iterAries):
+
+        SHA = starLongList[iterStar]
+        GHA1 =ariesLongList[iterAries]
+        GHA2 = ariesLongList[iterAries+1]
+        
+        hour =  int(sightingDic['time'][0:2])
+        minute =  int(sightingDic['time'][3:5])
+        sec =  int(sightingDic['time'][6:8])
+        interpolTime = (sec + minute*60 + hour*60**2)
+        GHA = GHA1 - abs(GHA2-GHA1)*float(interpolTime)/3600
+        return GHA+SHA
+    
+    def calculateGeodedicLat(self,starLatList,iterStar):
+        return starLatList[iterStar]

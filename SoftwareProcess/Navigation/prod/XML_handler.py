@@ -15,28 +15,35 @@ class XML_handler():
         #each sighting and get at least the mandatory data and any optional data
         sightingDOM = parse(sightingFile)
         sightings = sightingDOM.getElementsByTagName("sighting") #get range of all sightings in file
+        sightingsDic = {}
+        sightingsDic['SightingError'] = 0
+        bodyList = []
         if sightings == []:
-            sightingsDic = {}
             sightingsDic['Message'] = 'No sightings found'
         else:
-            sightingsDic = {}
             sightingsDic['Message'] = 'Sightings found'
             orderedSightings = self.getChronologicalOrder(sightings)
             for sighting in orderedSightings:
-                
                 try: #get all mandatory data, failure to do so will raise error
                     body = self.handleBody(sighting)
+                    sightingsDic[str(body)] = {}
+                    bodyList.append(str(body))
+
                     date = self.handleDate(sighting)
                     time = self.handleTime(sighting)
                     obs = self.handleObservation(sighting)
-                    sightingsDic[str(body)] = {}
+                    sightingsDic[str(body)]['Message'] = 'No error'
                     sightingsDic[str(body)]['body'] = str(body)
                     sightingsDic[str(body)]['date'] = str(date)
                     sightingsDic[str(body)]['time'] = str(time)
                     sightingsDic[str(body)]['observation'] = obs
-                except ValueError as e:
-                    raise ValueError(e)
-        
+#                 except ValueError as e:
+#                     raise ValueError(e)
+                except:
+                    currentSightingError = sightingsDic['SightingError']
+                    currentSightingError = currentSightingError + 1
+                    sightingsDic['SightingError'] = currentSightingError
+                    sightingsDic[str(body)]['Message'] = 'There was an error'
                 #Get all  non-mandatory data
                 height = float(self.handleHeight(sighting))
                 temp = float(self.handleTemperature(sighting))
@@ -46,41 +53,63 @@ class XML_handler():
                 try:
                     pressure = float(self.handlePressure(sighting))
                     sightingsDic[str(body)]['pressure'] = pressure
-                except ValueError as e:
-                    raise ValueError(e)    
+#                 except ValueError as e:
+#                     raise ValueError(e)
+                except:
+                    currentSightingError = sightingsDic['SightingError']
+                    currentSightingError = currentSightingError + 1
+                    sightingsDic['SightingError'] = currentSightingError
+                    sightingsDic[str(body)]['Message'] = 'There was an error'
                 try:
                     horz = self.handleHorizon(sighting)
                     sightingsDic[str(body)]['horizon'] = str(horz)
-                except ValueError as e:
-                    raise ValueError(e)                    
-
+#                 except ValueError as e:
+#                     raise ValueError(e)
+                except:
+                    currentSightingError = sightingsDic['SightingError']
+                    currentSightingError = currentSightingError + 1
+                    sightingsDic['SightingError'] = currentSightingError
+                    sightingsDic[str(body)]['Message'] = 'There was an error' 
+        sightingsDic['bodyList'] = bodyList
         return sightingsDic
             
     
     def getChronologicalOrder(self,sightingsList):
         timeInSecOfSighting = [] #make empty list
+        validSightings = []
+        incorrectSightings = []
+        returnSightings = []
+
         for sighting in sightingsList:
             try: #get time and data tags, failure to do so will raise error
                 date = self.handleDate(sighting)
                 time = self.handleTime(sighting)
+                #convert both strings into their individual components
+                year = int(date[0:4])
+                month =  int(date[5:7])
+                day =  int(date[8:10])
+                hour =  int(time[0:2])
+                minute =  int(time[3:5])
+                sec =  int(time[6:8])
+                timeInSecOfSighting.append(sec + minute*60 + hour*60**2 + day*24*60**2 + (year+(float(month)/12.0))*365*24*60**2)
+                validSightings.append(sighting)
             except ValueError as e:
-                raise ValueError(e)
-            #convert both strings into their individual components
-            year = int(date[0:4])
-            month =  int(date[5:7])
-            day =  int(date[8:10])
-            hour =  int(time[0:2])
-            minute =  int(time[3:5])
-            sec =  int(time[6:8])
+                print e
+                incorrectSightings.append(sighting)
+
             
             #take components and converts to a single numerical value that can be used to sort
-            timeInSecOfSighting.append(sec + minute*60 + hour*60**2 + day*24*60**2 + (year+(month/12.0))*365*24*60**2)
         #takes sightings dom list and timeInSecOfSighting list and places each element into tuples respectivly, using zip
         #the list of touples are then sorted by timeInSecOfSighting and uncoupled back to their respective lists
-        TupleListOfTimeAndSightings = zip(timeInSecOfSighting, sightingsList) #combines into on list
+        TupleListOfTimeAndSightings = zip(timeInSecOfSighting, validSightings) #combines into on list
         sortedTupleList = sorted(TupleListOfTimeAndSightings) #sorts list
         sortedTimeList, sortedSightings = (list(t) for t in zip(*sortedTupleList)) #unsorts list and saves as individual list again
-        return sortedSightings
+        
+        for sighting in sortedSightings:
+            returnSightings.append(sighting)
+        for sighting in incorrectSightings:
+            returnSightings.append(sighting)  
+        return returnSightings
     
     ###########Mandatory Tags###########
     #######Raises error if not given
@@ -213,8 +242,6 @@ class XML_handler():
             raise ValueError(errmsg) 
         else:
             return horz  
-                
-
 
     #Function to read lowest level tag
     def getText(self,nodelist):

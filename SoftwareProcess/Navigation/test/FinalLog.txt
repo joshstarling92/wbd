@@ -1,0 +1,20 @@
+Start of log
+LOG:	2016-10-31 02:16:37-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FinalLog.txt
+LOG:	2016-10-31 02:16:37-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/example.xml
+LOG:	2016-10-31 02:16:37-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/stars.txt
+LOG:	2016-10-31 02:16:37-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/aries.txt
+LOG:	2016-10-31 02:16:37-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/example.xml
+LOG:	2016-10-31 02:16:37-6:00:	Pollux	2016-04-14	23:50:14	15d1.5	90d2.0	5d10.9
+LOG:	2016-10-31 02:16:37-6:00:	Sirius	2017-04-17	09:30:30	45d14.3	219d54.7	307d17.2
+LOG:	Sightings Errors: 2016-10-31 02:16:37-6:00:	1
+End of sighting file example.xml
+Start of log
+LOG:	2016-10-31 02:16:51-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FinalLog.txt
+LOG:	2016-10-31 02:16:51-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/example.xml
+LOG:	2016-10-31 02:16:51-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/stars.txt
+LOG:	2016-10-31 02:16:51-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/aries.txt
+LOG:	2016-10-31 02:16:51-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/example.xml
+LOG:	2016-10-31 02:16:51-6:00:	Pollux	2016-04-14	23:50:14	15d1.5	90d2.0	5d10.9
+LOG:	2016-10-31 02:16:51-6:00:	Sirius	2017-04-17	09:30:30	45d14.3	219d54.7	307d17.2
+LOG:	Sightings Errors: 2016-10-31 02:16:51-6:00:	1
+End of sighting file example.xml
