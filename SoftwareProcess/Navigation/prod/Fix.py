@@ -134,7 +134,6 @@ class Fix():
                             errmessg = self.classErrorName + methodErrorName + str(e)
                             raise ValueError(errmessg)
 
-
                     else:
                         errmsg = self.classErrorName + methodErrorName + 'Star file does not exist'
                         raise ValueError(errmsg) 
@@ -178,24 +177,24 @@ class Fix():
                     iterStar = self.findClosestStarTime(sightingDic['body'],sightingDic['date'],sightingDic['time'])
                     iterAries = self.findClosestAriesTime(sightingDic['date'],sightingDic['time'])
                     
-                    geoLatPos = Angle.Angle()
+#                     geoLatPos = Angle.Angle()
                     geoLonPos = Angle.Angle()
                     geoLatLongPos = Sightings.Sightings()
-                    geoLatPos.setDegrees(geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar))
+
+#                     geoLatPos.setDegrees(geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar))
                     geoLonPos.setDegrees(geoLatLongPos.calculateGeodedicLon(sightingDic,self.starLongList,self.ariesLongList,iterStar,iterAries))
-                    self.WriteSightingData(sightingDic['body'],sightingDic['date'],sightingDic['time'],obsAngle.getString(),geoLonPos.getString(),geoLatPos.getString())
+                    self.WriteSightingData(sightingDic['body'],sightingDic['date'],sightingDic['time'],obsAngle.getString(),geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar),geoLonPos.getString())
 
                 else:
                     self.ErrorsFound = self.ErrorsFound + 1
                     sightingsDic['SightingError'] = self.ErrorsFound
                     
-        utc_datetime = datetime.datetime.utcnow()
+#         utc_datetime = datetime.datetime.utcnow()
         log_file = open(self.logFile, "a")
-        log_file.write("LOG:\tSightings Errors: ")
-        log_file.write(utc_datetime.strftime("%Y-%m-%d %H:%M:%S"))
-        log_file.write("-6:00:\t")
+        log_file.write("Sighting errors:\t")
         log_file.write(str(sightingsDic['SightingError']))
         log_file.write("\n")
+#         log_file.write('Sighting errors:\t1')
         #Write end of sighting information to log file
         log_file.write("End of sighting file ")
         log_file.write(self.sightingFile)
@@ -238,8 +237,9 @@ class Fix():
             
     def writeStartOfLog(self):
         #basic function that will log the start of of the log file
-        logfile = open(self.logFile, "a")  
-        logfile.write("Start of log\n")
+        logfile = open(self.logFile, "a") 
+#         logfile.write("Log file:\t")
+#         logfile.write("Start of log\n")
         utc_datetime = datetime.datetime.utcnow()
         logfile.write("LOG:\t")
         logfile.write(utc_datetime.strftime("%Y-%m-%d %H:%M:%S"))
@@ -275,9 +275,9 @@ class Fix():
         log_file.write("\t")
         log_file.write(str(obsAngle))
         log_file.write("\t")
-        log_file.write(str(lon))
-        log_file.write("\t")
         log_file.write(str(lat))
+        log_file.write("\t")
+        log_file.write(str(lon))
         log_file.write("\n")
         
         
@@ -401,8 +401,8 @@ class Fix():
             except:
                 errmsg = 'Latitude of first point of Aries of an entry in star log is not correct'
                 raise ValueError(errmsg)      
-            self.starLatList.append(angleStarLat.getDegrees())
-            
+#             self.starLatList.append(angleStarLat.getDegrees())
+            self.starLatList.append(starLat)
             try:
                 angleStarLon = Angle.Angle()
                 angleStarLon.setDegreesAndMinutes(starLong)
@@ -446,6 +446,7 @@ class Fix():
             return minLoc
         else:
             return minLoc - 1
+        
             
 
             

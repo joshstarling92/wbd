@@ -23,102 +23,127 @@
 		<link>
 			<name>Navigation/test/CA02_200_ValidStarSightingFile.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_200_ValidStarSightingFile.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_200_ValidStarSightingFile.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_GenericValidStarSightingFile.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_GenericValidStarSightingFile.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_GenericValidStarSightingFile.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidBody.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidBody.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidBody.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidDate.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidDate.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidDate.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidHeight.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidHeight.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidHeight.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidHorizon.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidHorizon.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidHorizon.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidObservation.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidObservation.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidObservation.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidPressure.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidPressure.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidPressure.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidTemperature.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidTemperature.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidTemperature.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidTime.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidTime.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidTime.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_InvalidWithMissingMandatoryTags.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_InvalidWithMissingMandatoryTags.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_InvalidWithMissingMandatoryTags.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidMultipleStarSighting.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidMultipleStarSighting.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidMultipleStarSighting.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidMultipleStarSightingSameDateTime.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidMultipleStarSightingSameDateTime.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidMultipleStarSightingSameDateTime.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidOneStarArtificialHorizon.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidOneStarArtificialHorizon.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidOneStarArtificialHorizon.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidOneStarNaturalHorizon.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidOneStarNaturalHorizon.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidOneStarNaturalHorizon.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidOneStarSighting.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidOneStarSighting.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidOneStarSighting.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidOneStarWithDefaultValues.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidOneStarWithDefaultValues.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidOneStarWithDefaultValues.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidWithExtraneousTags.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidWithExtraneousTags.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidWithExtraneousTags.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidWithMixedIndentation.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidWithMixedIndentation.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidWithMixedIndentation.xml</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/CA02_300_ValidWithNoSightings.xml</name>
 			<type>1</type>
-			<locationURI>PARENT-3-PROJECT_LOC/Downloads/CA02TestCode/CA02_300_ValidWithNoSightings.xml</locationURI>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA02_300_ValidWithNoSightings.xml</locationURI>
+		</link>
+		<link>
+			<name>Navigation/test/CA03_300_ValidStarLatLon.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA03_300_ValidStarLatLon.xml</locationURI>
+		</link>
+		<link>
+			<name>Navigation/test/CA03_300_ValidStarLatLonInterpolationRequired.xml</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA03_300_ValidStarLatLonInterpolationRequired.xml</locationURI>
+		</link>
+		<link>
+			<name>Navigation/test/CA03_Valid_Aries.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt</locationURI>
+		</link>
+		<link>
+			<name>Navigation/test/CA03_Valid_Stars.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt</locationURI>
+		</link>
+		<link>
+			<name>Navigation/test/FixTestCA03.py</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/SoftwareProcess/Navigation/test/FixTestCA03.py</locationURI>
 		</link>
 		<link>
 			<name>Navigation/test/FixTestTeach.py</name>

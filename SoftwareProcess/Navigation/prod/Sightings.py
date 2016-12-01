@@ -5,7 +5,7 @@ class Sightings():
         
     def calculateAngle(self,sightingDic):
         #function that calculates corrected observation angle 
-        height = int(sightingDic['height'])
+        height = float(sightingDic['height'])
 #         print height
         temp = sightingDic['temperature']
         pressure = sightingDic['pressure']
@@ -24,16 +24,14 @@ class Sightings():
         return adjustedAltDeg+adjustedAltMin/60
     
     def calculateGeodedicLon(self,sightingDic,starLongList,ariesLongList,iterStar,iterAries):
-
         SHA = starLongList[iterStar]
-        GHA1 =ariesLongList[iterAries]
+        GHA1 = ariesLongList[iterAries]
         GHA2 = ariesLongList[iterAries+1]
-        
-        hour =  int(sightingDic['time'][0:2])
+
         minute =  int(sightingDic['time'][3:5])
         sec =  int(sightingDic['time'][6:8])
-        interpolTime = (sec + minute*60 + hour*60**2)
-        GHA = GHA1 - abs(GHA2-GHA1)*float(interpolTime)/3600
+        interpolTime = sec + minute*60
+        GHA = GHA1 + abs(GHA2-GHA1)*interpolTime/3600.0
         return GHA+SHA
     
     def calculateGeodedicLat(self,starLatList,iterStar):

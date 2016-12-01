@@ -22,16 +22,18 @@ class XML_handler():
             sightingsDic['Message'] = 'No sightings found'
         else:
             sightingsDic['Message'] = 'Sightings found'
+#             try:
             orderedSightings = self.getChronologicalOrder(sightings)
+#             except:
+#                 orderedSightings = sightings
             for sighting in orderedSightings:
+                errorOccured = 0;
                 try: #get all mandatory data, failure to do so will raise error
                     body = self.handleBody(sighting)
-                    sightingsDic[str(body)] = {}
-                    bodyList.append(str(body))
-
                     date = self.handleDate(sighting)
                     time = self.handleTime(sighting)
                     obs = self.handleObservation(sighting)
+                    sightingsDic[str(body)] = {}
                     sightingsDic[str(body)]['Message'] = 'No error'
                     sightingsDic[str(body)]['body'] = str(body)
                     sightingsDic[str(body)]['date'] = str(date)
@@ -40,36 +42,59 @@ class XML_handler():
 #                 except ValueError as e:
 #                     raise ValueError(e)
                 except:
-                    currentSightingError = sightingsDic['SightingError']
-                    currentSightingError = currentSightingError + 1
-                    sightingsDic['SightingError'] = currentSightingError
-                    sightingsDic[str(body)]['Message'] = 'There was an error'
+                    try:
+                        body = self.handleBody(sighting)
+                        sightingsDic[str(body)]['Message'] = 'There was an error'
+                    except:
+                        body = 'NullBody'
+                        sightingsDic[str(body)] = {}
+                    errorOccured = errorOccured + 1
+                    if (errorOccured == 1):
+                        currentSightingError = sightingsDic['SightingError']
+                        currentSightingError = currentSightingError + 1
+                        sightingsDic['SightingError'] = currentSightingError
+
                 #Get all  non-mandatory data
-                height = float(self.handleHeight(sighting))
-                temp = float(self.handleTemperature(sighting))
-                
-                sightingsDic[str(body)]['height'] = height
-                sightingsDic[str(body)]['temperature'] = temp
+                try:
+                    height = float(self.handleHeight(sighting))
+                    temp = float(self.handleTemperature(sighting))
+                    if (height == 1234567):
+                        height = 0
+                    if (height == 7654321):
+                        errorOccured = errorOccured + 1
+                        if (errorOccured == 1):
+                            currentSightingError = sightingsDic['SightingError']
+                            currentSightingError = currentSightingError + 1
+                            sightingsDic['SightingError'] = currentSightingError
+                        height = 0.0   
+                    sightingsDic[str(body)]['height'] = height
+                    sightingsDic[str(body)]['temperature'] = temp
+                except:
+                    sightingsDic[str(body)]['Message'] = 'There was an error' 
                 try:
                     pressure = float(self.handlePressure(sighting))
                     sightingsDic[str(body)]['pressure'] = pressure
 #                 except ValueError as e:
 #                     raise ValueError(e)
                 except:
-                    currentSightingError = sightingsDic['SightingError']
-                    currentSightingError = currentSightingError + 1
-                    sightingsDic['SightingError'] = currentSightingError
-                    sightingsDic[str(body)]['Message'] = 'There was an error'
+                    errorOccured = errorOccured + 1
+                    if (errorOccured == 1):
+                        currentSightingError = sightingsDic['SightingError']
+                        currentSightingError = currentSightingError + 1
+                        sightingsDic['SightingError'] = currentSightingError
                 try:
                     horz = self.handleHorizon(sighting)
                     sightingsDic[str(body)]['horizon'] = str(horz)
 #                 except ValueError as e:
 #                     raise ValueError(e)
                 except:
-                    currentSightingError = sightingsDic['SightingError']
-                    currentSightingError = currentSightingError + 1
-                    sightingsDic['SightingError'] = currentSightingError
-                    sightingsDic[str(body)]['Message'] = 'There was an error' 
+                    errorOccured = errorOccured + 1
+                    if (errorOccured == 1):
+                        currentSightingError = sightingsDic['SightingError']
+                        currentSightingError = currentSightingError + 1
+                        sightingsDic['SightingError'] = currentSightingError
+                if (errorOccured == 0):
+                    bodyList.append(str(body))
         sightingsDic['bodyList'] = bodyList
         return sightingsDic
             
@@ -93,8 +118,7 @@ class XML_handler():
                 sec =  int(time[6:8])
                 timeInSecOfSighting.append(sec + minute*60 + hour*60**2 + day*24*60**2 + (year+(float(month)/12.0))*365*24*60**2)
                 validSightings.append(sighting)
-            except ValueError as e:
-                print e
+            except:
                 incorrectSightings.append(sighting)
 
             
@@ -102,13 +126,15 @@ class XML_handler():
         #takes sightings dom list and timeInSecOfSighting list and places each element into tuples respectivly, using zip
         #the list of touples are then sorted by timeInSecOfSighting and uncoupled back to their respective lists
         TupleListOfTimeAndSightings = zip(timeInSecOfSighting, validSightings) #combines into on list
-        sortedTupleList = sorted(TupleListOfTimeAndSightings) #sorts list
-        sortedTimeList, sortedSightings = (list(t) for t in zip(*sortedTupleList)) #unsorts list and saves as individual list again
+        if validSightings != []:
+            sortedTupleList = sorted(TupleListOfTimeAndSightings) #sorts list
+            sortedTimeList, sortedSightings = (list(t) for t in zip(*sortedTupleList)) #unsorts list and saves as individual list again
         
-        for sighting in sortedSightings:
-            returnSightings.append(sighting)
-        for sighting in incorrectSightings:
-            returnSightings.append(sighting)  
+            for sighting in sortedSightings:
+                returnSightings.append(sighting)
+        if incorrectSightings != []:
+            for sighting in incorrectSightings:
+                returnSightings.append(sighting)  
         return returnSightings
     
     ###########Mandatory Tags###########
@@ -193,7 +219,11 @@ class XML_handler():
             heightStr = sighting.getElementsByTagName('height')[0]
             height =  self.getText(heightStr.childNodes)
         except:
-            return 0
+            return 1234567
+        try:
+            height = float(height)
+        except:
+            return 7654321
         if float(height) >= 0:
             return float(height)
         else:   
@@ -205,6 +235,7 @@ class XML_handler():
         try:
             tempStr = sighting.getElementsByTagName('temperature')[0]
             temp = self.getText(tempStr.childNodes)
+            temp = float(temp)
         except:
             return 72
         if float(temp) == int(temp):
@@ -217,11 +248,13 @@ class XML_handler():
             errmsg = 'Temperature must be an integer'
             raise ValueError(errmsg) 
 
+
         
     def handlePressure(self,sighting):
         try:
             pressureStr = sighting.getElementsByTagName('pressure')[0]
             pressure = self.getText(pressureStr.childNodes)
+            pressure = float(pressure)
         except:
             pressure = 1010
 
