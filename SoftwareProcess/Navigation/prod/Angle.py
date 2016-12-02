@@ -1,9 +1,13 @@
 class Angle():
 #Written by: Joshua Starling
 
-    def __init__(self):
+    def __init__(self,moduloLimit = None):
         #init function that will set the starting value at zero and defines the 
         #name of the class for the function of error handling
+        if moduloLimit == None:
+            self.moduloLimit =  360
+        else:
+            self.moduloLimit = moduloLimit
         self.angle = 0
         self.classErrorName = 'Angle.'
     
@@ -181,7 +185,7 @@ class Angle():
                     degrees = degrees + 360
                 else: 
                     degreePositive = 1;
-        elif degrees >= 360:
+        elif degrees >= self.moduloLimit:
             while (varOverMax == 0):
                 if degrees >= 360:
                     degrees = degrees - 360

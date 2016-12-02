@@ -3,7 +3,7 @@
 import Angle
 import XML_handler
 import Sightings
-
+import math
 #default imports
 import os
 import re
@@ -144,13 +144,59 @@ class Fix():
             errmsg = self.classErrorName + methodErrorName + 'Star file is not a string'
             raise ValueError(errmsg)  
               
-    def getSightings(self):
+    def getSightings(self,inputAssumedLatitude = None, inputAssumedLongitude = None):
+        sign = 1
         methodErrorName = 'getSightings:  ' #defined for error handling
         if self.sightingFile == 'Null' or self.ariesFile == 'Null' or self.starFile == 'Null': 
             #if no sighting star or Aries file was set, raise error
             errmsg = self.classErrorName + methodErrorName + 'Sighting, Star, and Aries file must all be set before getSighting can be called'
             raise ValueError(errmsg) 
+        assumedLatitude = Angle.Angle(999999999999)
+        assumedLongitude = Angle.Angle(999999999999)
+        if inputAssumedLatitude == None:
+            assumedLatitude.setDegrees(0)
+            LatNorthOrSouth = ''
+        else:
+            try:
+                checkAngle = Angle.Angle()
+                strAssumedLat = str(inputAssumedLatitude)
+                if strAssumedLat[0] == 'N' or strAssumedLat[0] == 'S':
+                    if strAssumedLat[0] == 'S':
+                        sign = -1
+                    else:
+                        sign = 1 
+                    LatNorthOrSouth = strAssumedLat[0]
+                    assumedLatitude.setDegreesAndMinutes(strAssumedLat[1:])
+                else:
+                    try:
+                        checkAngle.setDegreesAndMinutes(strAssumedLat)
+                    except:
+                        errmsg = self.classErrorName + methodErrorName + 'Latitude not in correct format'
+                        raise ValueError(errmsg)  
+            except:
+                errmsg = self.classErrorName + methodErrorName + 'Latitude not in correct format'
+                raise ValueError(errmsg)  
+            if checkAngle.getDegrees() != 0:
+                errmsg = self.classErrorName + methodErrorName + 'Latitude must be zero to not have N or S'
+                raise ValueError(errmsg)  
+            
+            
+        if inputAssumedLongitude == None:
+            assumedLongitude.setDegrees(0)
+        else:
+            try:
+                strAssumedLon = str(inputAssumedLongitude) 
+                assumedLongitude.setDegreesAndMinutes(strAssumedLon)
+            except:
+                errmsg = self.classErrorName + methodErrorName + 'Longitude not in correct format'
+                raise ValueError(errmsg)  
         
+        if assumedLatitude.getDegrees() > 90 or assumedLatitude.getDegrees() < 0:
+            errmsg = self.classErrorName + methodErrorName + 'Latitude is not in correct range'
+            raise ValueError(errmsg)  
+        if assumedLongitude.getDegrees() > 360 or assumedLongitude.getDegrees() < 0:
+            errmsg = self.classErrorName + methodErrorName + 'Longitude is not in correct range'
+            raise ValueError(errmsg)  
         #Parse .xml file and print information to log file
         sightingXML = XML_handler.XML_handler()
         try:
@@ -164,6 +210,8 @@ class Fix():
         else:
             self.writeStartOfSightingFile() #Write start of sighting file to log file
             self.ErrorsFound =  sightingsDic['SightingError']
+            sumDACAA = 0
+            sumDASAA = 0
             for chronologicalBody in sightingsDic['bodyList']:
                 sightingDic = sightingsDic[str(chronologicalBody)]
                 doesStarExist = 0
@@ -176,26 +224,53 @@ class Fix():
                     obsAngle.setDegrees(sighting.calculateAngle(sightingDic))
                     iterStar = self.findClosestStarTime(sightingDic['body'],sightingDic['date'],sightingDic['time'])
                     iterAries = self.findClosestAriesTime(sightingDic['date'],sightingDic['time'])
-                    
 #                     geoLatPos = Angle.Angle()
                     geoLonPos = Angle.Angle()
                     geoLatLongPos = Sightings.Sightings()
+                    geoLonPos.setDegrees(geoLatLongPos.calculateGeodedicLon(sightingDic,self.starLongList,self.ariesLongList,iterStar,iterAries)) 
+#                     print geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar-1)
+                    azimuthAdjusted = sighting.calculateAzimuthAdjustment(geoLonPos.getDegrees(),geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar-1),assumedLongitude.getDegrees(),sign*assumedLatitude.getDegrees(),obsAngle.getDegrees())
+                    angleAzimuthAdjusted = Angle.Angle()
+                    angleAzimuthAdjusted.setDegrees(azimuthAdjusted)
 
-#                     geoLatPos.setDegrees(geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar))
-                    geoLonPos.setDegrees(geoLatLongPos.calculateGeodedicLon(sightingDic,self.starLongList,self.ariesLongList,iterStar,iterAries))
-                    self.WriteSightingData(sightingDic['body'],sightingDic['date'],sightingDic['time'],obsAngle.getString(),geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar),geoLonPos.getString())
+                    distanceAdjusted = sighting.calculateDistanceAdjustment(geoLonPos.getDegrees(),geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar-1),assumedLongitude.getDegrees(),sign*assumedLatitude.getDegrees(),obsAngle.getDegrees())
+
+                    sumDACAA = sumDACAA + distanceAdjusted*math.cos(angleAzimuthAdjusted.getRadians())
+                    sumDASAA = sumDASAA + distanceAdjusted*math.sin(angleAzimuthAdjusted.getRadians())
+                    
+                    self.WriteSightingData(sightingDic['body'],sightingDic['date'],sightingDic['time'],obsAngle.getString(),geoLatLongPos.calculateGeodedicLat(self.starLatList,iterStar),geoLonPos.getString(),assumedLongitude.getString(),LatNorthOrSouth+assumedLatitude.getString(),angleAzimuthAdjusted.getString(),distanceAdjusted)
 
                 else:
                     self.ErrorsFound = self.ErrorsFound + 1
                     sightingsDic['SightingError'] = self.ErrorsFound
-                    
+            sumDACAA =  sumDACAA/60
+            sumDASAA =  sumDASAA/60
+
+            approxLat = sumDACAA + sign*assumedLatitude.getDegrees()
+            approxLong = sumDASAA + assumedLongitude.getDegrees()
+
+            if approxLat > 90:
+                approxLat = -1*(approxLat-90)
+            if approxLat < -90:
+                approxLat = -1*(approxLat+90)
+            if approxLong > 360:
+                approxLong  = approxLong - 360
+            if approxLong < -360:
+                approxLong  = approxLong + 360
+
 #         utc_datetime = datetime.datetime.utcnow()
         log_file = open(self.logFile, "a")
-        log_file.write("Sighting errors:\t")
+        utc_datetime = datetime.datetime.utcnow()
+        log_file.write("LOG:\t")
+        log_file.write(utc_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+        log_file.write("\tSighting errors:\t")
         log_file.write(str(sightingsDic['SightingError']))
         log_file.write("\n")
+        log_file.close()
+        self.writeApproximateData(approxLat,approxLong)
 #         log_file.write('Sighting errors:\t1')
         #Write end of sighting information to log file
+        log_file = open(self.logFile, "a")
         log_file.write("End of sighting file ")
         log_file.write(self.sightingFile)
         log_file.write("\n")
@@ -249,6 +324,30 @@ class Fix():
         logfile.write("\n")
         logfile.close()
         
+    def writeApproximateData(self,approxLat,approxLng):
+        angleLat = Angle.Angle()
+        angleLat.setDegrees(abs(approxLat))
+        angleLng = Angle.Angle()
+        angleLng.setDegrees(approxLng)
+        if approxLat<0:
+            char = 'S'
+        elif approxLat>0:
+            char = 'N'
+        else:
+            char = ''
+        logfile = open(self.logFile, "a") 
+#         logfile.write("Log file:\t")
+#         logfile.write("Start of log\n")
+        utc_datetime = datetime.datetime.utcnow()
+        logfile.write("LOG:\t")
+        logfile.write(utc_datetime.strftime("%Y-%m-%d %H:%M:%S"))
+        logfile.write("-6:00:\tApproximate latitude\t")
+        logfile.write(char)
+        logfile.write(angleLat.getString())
+        logfile.write("\tApproximate longitude\t")
+        logfile.write(angleLng.getString())
+        logfile.write("\n")
+        
     def writeStartOfSightingFile(self):
         #Basic function to log the start of a sighting file
         log_file = open(self.logFile, "a")
@@ -259,8 +358,9 @@ class Fix():
         log_file.write("Start of sighting file: ")
         log_file.write(str(os.path.abspath(self.sightingFile)))
         log_file.write("\n")
+        log_file.close()
         
-    def WriteSightingData(self,body,date,time,obsAngle,lon,lat):
+    def WriteSightingData(self,body,date,time,obsAngle,lat,lon,assumedLon,assumedLat,azimuthAdjusted,azimuthDistance):
         #basic function that will log data from sighting
         utc_datetime = datetime.datetime.utcnow()
         log_file = open(self.logFile, "a")        
@@ -275,10 +375,19 @@ class Fix():
         log_file.write("\t")
         log_file.write(str(obsAngle))
         log_file.write("\t")
+        log_file.write(str(lon))
+        log_file.write("\t")
         log_file.write(str(lat))
         log_file.write("\t")
-        log_file.write(str(lon))
+        log_file.write(str(assumedLon))
+        log_file.write("\t")
+        log_file.write(str(assumedLat))
+        log_file.write("\t")
+        log_file.write(str(azimuthAdjusted)) 
+        log_file.write("\t")
+        log_file.write(str(azimuthDistance)) 
         log_file.write("\n")
+        log_file.close()
         
         
     def parseAriesFile(self):
@@ -358,12 +467,16 @@ class Fix():
         
         for StarEntryNumber in range(0, len(starFileContents)):
             singleLine = str(starFileContents[StarEntryNumber])
-            singleLineEntry = re.split(r'\t+', singleLine)
+            singleLineEntry = re.split('\t', singleLine)
             name = singleLineEntry[0]
             date = singleLineEntry[1]
             starLong = singleLineEntry[2]
-            starLat = singleLineEntry[3]
+            tempStarLat = singleLineEntry[3]
 
+            if tempStarLat[0] == '-':
+                starLat = tempStarLat[0:8]
+            else:
+                starLat = tempStarLat[0:7]
             self.starNameList.append(name)
             try:
                 month =  int(date[0:2])
@@ -445,7 +558,7 @@ class Fix():
         if minVal == 0:
             return minLoc
         else:
-            return minLoc - 1
+            return minLoc+1
         
             
 

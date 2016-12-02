@@ -1,0 +1,4 @@
+LOG:	2016-12-02 10:17:59-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/log9a8e97c34d1e.txt
+LOG:	2016-12-02 10:17:59-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:17:59-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 10:17:59-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt

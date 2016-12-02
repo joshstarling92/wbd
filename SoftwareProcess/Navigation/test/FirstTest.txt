@@ -1,0 +1,1184 @@
+LOG:	2016-12-02 05:26:38-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 05:26:43-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 05:35:31-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 05:35:42-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:20:12-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:20:12-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:20:12-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:20:12-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:20:12-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:21:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:21:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:21:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:21:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:21:29-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:21:59-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:21:59-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:21:59-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:21:59-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:21:59-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:23:50-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:23:50-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:23:50-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:23:51-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:23:51-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:24:53-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:24:53-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:24:53-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:24:53-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:24:53-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:25:43-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:25:43-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:25:43-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:25:43-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:25:43-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:25:43-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	84d54.1	-2065.0
+LOG:	2016-12-02 07:26:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:26:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:26:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:26:01-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:26:01-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:26:01-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	84d54.1	-2065.0
+LOG:	2016-12-02 07:26:24-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:26:24-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:26:24-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:26:24-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:26:24-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:26:25-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	84d54.1	-2065.0
+LOG:	2016-12-02 07:27:50-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:27:50-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:27:50-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:27:50-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:27:50-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:27:50-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2065.0
+LOG:	2016-12-02 07:28:53-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:28:53-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:28:53-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:28:53-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:28:53-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:28:53-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2065.0
+LOG:	2016-12-02 07:29:12-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:29:12-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:29:12-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:29:13-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:29:13-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:29:13-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2065.0
+LOG:	2016-12-02 07:30:08-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:30:08-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:30:08-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:30:08-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:30:08-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:30:08-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2065.0
+LOG:	2016-12-02 07:34:26-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:34:26-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:34:26-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:34:26-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:34:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:34:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2065.0
+LOG:	2016-12-02 07:40:08-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:40:08-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:40:08-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:40:08-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:40:08-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:40:08-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2137.0
+LOG:	2016-12-02 07:40:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:40:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:40:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:40:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:40:29-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:40:29-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2137.0
+LOG:	2016-12-02 07:41:21-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:41:21-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:41:21-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:41:21-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:41:21-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:41:21-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2137.0
+LOG:	2016-12-02 07:43:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:43:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:43:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:43:26-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:43:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:43:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2137.0
+LOG:	2016-12-02 07:43:51-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:43:51-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:43:51-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:43:52-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:43:52-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:44:09-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:44:09-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:44:09-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:44:09-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:44:09-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:44:09-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-2137.0
+LOG:	2016-12-02 07:45:27-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:45:27-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:45:27-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:45:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:45:27-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:45:27-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-3756.0
+LOG:	2016-12-02 07:46:32-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:46:32-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:46:32-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:46:32-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:46:32-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:46:32-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-3756.0
+LOG:	2016-12-02 07:47:30-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:47:30-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:47:30-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:47:30-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:47:31-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:47:31-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	-3756.0
+LOG:	2016-12-02 07:50:32-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:50:32-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:50:32-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:50:33-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:55:12-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:55:12-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:55:12-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:55:12-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:55:12-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:55:12-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	2159.0
+LOG:	2016-12-02 07:56:59-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:56:59-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:56:59-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:56:59-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:56:59-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:56:59-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	2159.0
+LOG:	2016-12-02 07:57:51-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:57:51-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:57:51-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:57:52-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:57:52-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:57:52-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	184d39.7	2159.0
+LOG:	2016-12-02 07:59:49-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 07:59:49-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 07:59:49-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 07:59:49-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 07:59:49-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:00:41-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:00:41-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:00:41-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:00:41-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:00:41-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:01:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:01:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:01:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:01:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:01:25-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:02:08-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:02:08-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:02:08-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:02:08-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:02:08-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:02:52-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:02:52-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:02:52-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:02:53-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:02:53-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:05:27-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:05:27-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:05:27-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:05:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:05:27-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:06:15-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:06:15-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:06:15-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:06:15-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:06:15-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:06:48-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:06:48-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:06:48-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:06:48-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:06:48-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:07:30-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:07:30-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:07:30-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:07:30-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:07:30-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:08:17-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:08:17-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:08:17-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:08:17-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:08:17-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:08:45-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:08:45-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:08:45-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:08:45-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:08:46-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:09:37-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:09:37-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:09:37-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:09:37-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:09:37-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:10:45-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:10:45-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:10:45-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:10:45-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:10:45-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:11:27-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:11:27-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:11:27-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:11:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:11:27-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:11:27-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	214d38.7	2159.0
+LOG:	2016-12-02 08:11:27-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	214d38.7	1353.0
+LOG:	2016-12-02 08:11:27-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	214d38.7	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:14:41-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:14:41-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:14:41-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:14:42-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:14:42-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:15:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:15:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:15:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:15:02-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:15:02-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:15:02-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	214d38.7	2159.0
+LOG:	2016-12-02 08:15:02-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	214d38.7	1353.0
+LOG:	2016-12-02 08:15:02-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	214d38.7	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:16:09-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:16:09-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:16:09-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:16:10-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:16:10-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:16:10-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	214d38.7	2159.0
+LOG:	2016-12-02 08:16:10-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	214d38.7	1353.0
+LOG:	2016-12-02 08:16:10-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	214d38.7	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:27-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:17:27-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:27-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:17:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:17:28-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:28-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	57d50.0	2159.0
+LOG:	2016-12-02 08:17:28-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	173d26.4	1353.0
+LOG:	2016-12-02 08:17:28-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	120d45.0	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:51-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:17:51-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:51-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:17:51-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:17:51-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:17:51-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	57d50.0	2159.0
+LOG:	2016-12-02 08:17:51-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	173d26.4	1353.0
+LOG:	2016-12-02 08:17:51-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	120d45.0	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:18:35-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:18:35-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:18:35-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:18:35-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:18:35-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:18:35-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	57d50.0	2159.0
+LOG:	2016-12-02 08:18:35-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	173d26.4	1353.0
+LOG:	2016-12-02 08:18:35-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	120d45.0	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:19:02-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:19:02-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:19:02-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:19:02-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:19:02-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:19:02-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	57d50.0	2159.0
+LOG:	2016-12-02 08:19:02-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	173d26.4	1353.0
+LOG:	2016-12-02 08:19:02-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	120d45.0	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:20:18-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:20:18-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:20:18-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:20:18-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:20:18-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:21:13-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:21:13-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:21:13-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:21:13-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:21:13-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:24:34-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:24:34-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:24:34-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:24:35-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:24:35-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:24:35-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	57d50.0	2159.0
+LOG:	2016-12-02 08:24:35-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	173d26.4	1353.0
+LOG:	2016-12-02 08:24:35-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	120d45.0	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:25:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:25:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:25:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:25:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:25:29-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:27:04-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:27:04-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:27:04-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:27:04-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:27:04-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:28:05-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:28:05-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:28:05-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:28:05-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:28:05-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:29:03-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:29:03-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:29:03-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:29:04-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:29:04-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:30:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:30:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:30:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:30:01-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:30:02-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:30:02-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	163d32.2	2159.0
+LOG:	2016-12-02 08:30:02-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	163d32.2	1353.0
+LOG:	2016-12-02 08:30:02-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	163d32.2	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:31:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:31:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:31:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:31:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:31:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:31:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:31:26-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:31:26-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:32:14-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:32:14-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:32:14-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:32:14-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:32:14-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:32:14-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	166d34.3	2159.0
+LOG:	2016-12-02 08:32:14-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	166d34.3	1353.0
+LOG:	2016-12-02 08:32:14-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	166d34.3	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:33:38-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:33:38-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:33:38-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:33:39-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:33:39-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:33:39-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:33:39-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:33:39-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:35:41-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:35:41-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:35:41-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:35:42-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:35:42-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:35:42-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:35:42-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:35:42-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:36:11-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:36:11-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:36:11-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:36:11-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:36:11-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:36:11-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:36:11-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:36:11-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:11-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:39:11-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:11-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:39:11-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:39:11-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:11-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:39:11-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:39:11-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:55-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:39:55-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:55-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:39:55-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:39:55-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:39:55-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:39:55-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:39:55-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:41:58-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:41:58-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:41:58-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:41:59-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:41:59-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:41:59-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:41:59-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:41:59-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:42:14-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:42:14-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:42:14-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:42:14-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:42:14-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:42:14-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:42:14-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:42:14-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:44:38-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:44:38-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:44:38-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:44:38-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:44:38-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:44:38-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:44:38-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:44:38-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:45:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:45:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:45:25-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:25-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	132d8.4	-23.0
+LOG:	2016-12-02 08:45:25-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	147d6.9	305.0
+LOG:	2016-12-02 08:45:25-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	154d20.3	-5503.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:41-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:45:41-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:41-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:45:41-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:45:41-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:45:41-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	132d8.4	-23.0
+LOG:	2016-12-02 08:45:41-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	147d6.9	305.0
+LOG:	2016-12-02 08:45:41-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	154d20.3	-5503.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:46:04-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:46:04-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:46:04-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:46:04-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:46:04-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:46:04-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	132d8.4	-23.0
+LOG:	2016-12-02 08:46:04-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	147d6.9	305.0
+LOG:	2016-12-02 08:46:04-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	154d20.3	-5503.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:47:11-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:47:11-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:47:11-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:47:11-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:47:12-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:47:12-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:47:12-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:47:12-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:48:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:48:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:48:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:48:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:48:30-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:48:30-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	132d8.4	-23.0
+LOG:	2016-12-02 08:48:30-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	147d6.9	305.0
+LOG:	2016-12-02 08:48:30-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	154d20.3	-5503.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:04-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:50:04-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:04-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:50:05-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:50:05-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:05-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:50:05-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:50:05-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:15-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:50:15-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:15-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:50:15-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:50:16-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:50:16-6:00:	Rigil Kent.	2017-03-22	23:41:56	35d8.1	331d14.1	-60d53.8	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:50:16-6:00:	Acrux	2017-03-22	23:42:06	48d33.9	4d34.5	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:50:16-6:00:	Aldebaran	2017-03-22	23:43:12	13d42.3	122d32.0	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:51:37-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:51:37-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:51:37-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:51:37-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:51:37-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:51:37-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:51:37-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:51:37-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:56:26-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:56:26-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:56:26-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:56:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:56:27-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:56:27-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:56:27-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:56:27-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:22-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:57:22-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:22-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:57:22-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:57:22-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:22-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:57:22-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	6d32.7	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:57:22-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	124d30.2	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:55-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:57:55-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:55-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:57:55-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:57:56-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:57:56-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:57:56-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	6d32.7	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:57:56-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	124d30.2	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 08:58:26-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 08:58:26-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:58:26-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 08:58:26-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 08:58:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 08:58:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 08:58:26-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	6d32.7	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 08:58:26-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	124d30.2	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:13-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:00:13-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:13-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:00:13-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:00:13-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:13-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:00:13-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:00:13-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:30-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:00:30-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:30-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:00:30-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:00:30-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:30-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:00:30-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	5d24.4	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:00:30-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	114d53.1	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:43-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:00:43-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:43-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:00:43-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:00:43-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:00:43-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:00:43-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	6d32.7	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:00:43-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	124d30.2	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:01:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:01:01-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:01:01-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:01-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:01:01-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	6d32.7	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:01:01-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	124d30.2	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:11-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:01:11-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:11-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:01:11-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:01:11-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:11-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:01:11-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:01:11-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:20-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:01:20-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:20-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:01:20-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:01:20-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:01:20-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-60d53.9	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:01:20-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	5d24.4	-63d11.3	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:01:20-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	114d53.1	16d32.3	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:02:58-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:02:58-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:02:58-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:02:58-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:02:58-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:02:58-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+LOG:	2016-12-02 09:02:58-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	9d16.3	-17d38.0	74d35.3	S53d38.4	358d17.4	1353.0
+LOG:	2016-12-02 09:02:58-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	142d20.7	49d55.0	74d35.3	S53d38.4	358d17.4	3444.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:04:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:04:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:04:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:04:26-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:04:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:04:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	339d17.4	19d06.1	74d35.3	S53d38.4	358d17.4	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:05:21-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:05:21-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:05:21-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:05:21-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:05:21-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:05:21-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	358d17.4	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:16-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:06:16-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:16-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:06:16-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:06:16-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:16-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	358d17.4	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:55-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:06:55-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:55-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:06:55-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:06:55-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:06:55-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	358d17.4	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:13-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:08:13-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:13-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:08:13-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:08:13-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:13-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:49-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:08:49-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:49-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:08:49-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:08:49-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:08:49-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	358d17.4	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:09:59-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:09:59-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:09:59-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:09:59-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:09:59-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:09:59-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:10:24-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:10:24-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:10:24-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:10:24-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:10:24-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:10:24-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:11:48-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:11:48-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:11:48-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:11:48-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:11:48-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:11:48-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:12:46-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:12:46-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:12:46-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:12:46-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:12:47-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:12:47-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:18-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:13:18-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:18-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:13:18-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:13:19-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:19-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:13:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:13:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:13:25-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:13:25-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	330d26.9	-16d06.5	74d35.3	S53d38.4	149d1.6	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:14:19-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:14:19-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:14:19-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:14:19-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:14:20-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:14:20-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:15:05-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:15:05-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:15:05-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:15:05-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:15:05-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:15:05-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:17:52-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:17:52-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:17:52-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:17:52-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:17:52-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:17:52-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:18:43-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:18:43-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:18:43-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:18:43-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:18:44-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:18:44-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:19:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:19:02-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:19:02-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:02-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:45-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:19:45-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:45-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:19:45-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:19:45-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:19:45-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	310d55.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:20:00-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:20:00-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:20:00-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:20:00-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:20:00-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:20:00-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:01-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:21:01-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:01-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:21:01-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:21:01-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:01-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:24-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:21:24-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:24-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:21:24-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:21:24-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:43-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:21:43-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:21:43-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:21:43-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:21:43-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:14-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:23:14-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:14-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:23:14-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:23:14-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:14-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:47-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:23:47-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:47-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:23:47-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:23:47-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:23:47-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:04-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:25:04-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:04-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:25:05-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:25:05-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:05-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:56-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:25:56-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:56-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:25:56-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:25:56-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:25:56-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	81d9.7	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:26:37-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:26:37-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:26:37-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:26:37-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:26:37-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:26:37-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	338d19.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:27:07-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:27:07-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:27:07-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:27:07-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:27:07-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:27:07-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	338d19.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:28:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:28:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:28:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:28:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:28:25-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:28:25-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	338d19.8	1721.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:29:35-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:29:35-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:29:35-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:29:35-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:29:35-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:12-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:30:12-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:12-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:30:12-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:30:12-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:12-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	333d12.3	-16d06.5	74d35.3	S53d38.4	338d19.8	1721.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:39-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:30:39-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:39-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:30:39-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:30:39-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:30:39-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:25-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:31:25-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:25-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:31:25-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:31:25-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:25-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:48-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:31:48-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:48-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:31:48-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:31:48-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:31:48-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:31:48-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:31:48-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:38:11-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:38:11-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:38:11-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:38:11-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:38:11-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:38:52-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:38:52-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:38:52-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:38:53-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:38:53-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:38:53-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:38:53-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:38:53-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:40:41-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:40:41-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:40:41-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:40:41-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:40:41-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:40:58-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:40:58-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:40:58-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:40:58-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:40:58-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:40:58-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:40:58-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:40:58-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:42-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:41:42-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:42-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:41:42-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:41:42-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:42-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:41:42-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:41:42-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:52-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:41:52-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:52-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:41:52-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:41:53-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:41:53-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:41:53-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:41:53-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:07-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:43:07-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:07-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:43:07-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:43:07-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:07-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	358d36.8	2159.0
+LOG:	2016-12-02 09:43:07-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	49d30.5	434.0
+LOG:	2016-12-02 09:43:07-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	226d4.4	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:38-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:43:38-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:38-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:43:38-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:43:38-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:38-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:43:38-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:43:38-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:52-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:43:52-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:52-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:43:52-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:43:52-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:43:52-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:43:52-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:43:52-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:07-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:44:07-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:07-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:44:07-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:44:07-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:07-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:44:07-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:44:07-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:39-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:44:39-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:39-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:44:39-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:44:39-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:44:39-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:44:39-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:44:39-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:45:08-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:45:08-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:45:08-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:45:08-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:45:08-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:45:08-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:45:08-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:45:08-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:47:07-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:47:07-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:47:07-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:47:07-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:47:07-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:47:07-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:47:07-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:47:07-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:50:07-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:50:07-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:50:07-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:50:07-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:50:07-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:50:07-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:50:07-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:50:07-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:51:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:51:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:51:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:51:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:51:30-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:51:30-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:51:30-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:51:30-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:53:36-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:53:36-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:53:36-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:53:36-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:53:36-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:53:36-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:53:36-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:53:36-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:10-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:54:10-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:10-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:54:10-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:54:10-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:10-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:54:10-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:54:10-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:27-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:54:27-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:27-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:54:27-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:54:27-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:54:27-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:54:27-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:54:27-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:55:55-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:55:55-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:55:55-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:55:56-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:55:56-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:55:56-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:55:56-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:55:56-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:57:26-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:57:26-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:57:26-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:57:26-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:57:26-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:57:26-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:57:26-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:57:26-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:20-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:58:20-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:20-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:58:20-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:58:20-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:20-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:58:20-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:58:20-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:40-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:58:40-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:40-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:58:40-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:58:41-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:58:41-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:58:41-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:58:41-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:19-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:59:19-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:19-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:59:19-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:59:19-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:19-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:59:19-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:59:19-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:49-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 09:59:49-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:49-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 09:59:49-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 09:59:50-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 09:59:50-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 09:59:50-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 09:59:50-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 10:00:29-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 10:00:29-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:00:29-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 10:00:29-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 10:00:29-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:00:29-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 10:00:29-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 10:00:29-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 10:01:03-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 10:01:03-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:01:03-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 10:01:03-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 10:01:03-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:01:03-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 10:01:03-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 10:01:03-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
+LOG:	2016-12-02 10:07:16-6:00:	Log file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/FirstTest.txt
+LOG:	2016-12-02 10:07:16-6:00:	Sighting file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:07:16-6:00:	Aries file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Aries.txt
+LOG:	2016-12-02 10:07:16-6:00:	Star file:	/Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA03_Valid_Stars.txt
+LOG:	2016-12-02 10:07:16-6:00	Start of sighting file: /Users/Josh/git/SoftwareProcess/SoftwareProcess/Navigation/test/CA05_StarSighting.xml
+LOG:	2016-12-02 10:07:16-6:00:	Rigil Kent.	2017-03-24	23:41:56	35d8.1	318d9.8	-16d06.5	74d35.3	S53d38.4	125d38.1	2159.0
+LOG:	2016-12-02 10:07:16-6:00:	Acrux	2017-03-24	23:42:06	48d33.9	351d30.3	-57d12.3	74d35.3	S53d38.4	132d48.4	434.0
+LOG:	2016-12-02 10:07:16-6:00:	Aldebaran	2017-03-24	23:43:12	13d42.3	109d27.8	-8d11.4
+	74d35.3	S53d38.4	173d35.2	-3988.0
+LOG:	2016-12-02 10:07:16-6:00:	Approximate latitude	N346d31.9	-6:00:	Approximate longitude	101d43.0
+Sighting errors:	0
+End of sighting file CA05_StarSighting.xml
